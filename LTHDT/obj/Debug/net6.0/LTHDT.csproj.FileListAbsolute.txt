@@ -1,0 +1,15 @@
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\02_PhuongPhapLapTrinhHuongDoiTuong\LTHDT\obj\Debug\net6.0\LTHDT.GeneratedMSBuildEditorConfig.editorconfig
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\02_PhuongPhapLapTrinhHuongDoiTuong\LTHDT\obj\Debug\net6.0\LTHDT.AssemblyInfoInputs.cache
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\02_PhuongPhapLapTrinhHuongDoiTuong\LTHDT\obj\Debug\net6.0\LTHDT.AssemblyInfo.cs
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\02_PhuongPhapLapTrinhHuongDoiTuong\LTHDT\obj\Debug\net6.0\LTHDT.csproj.CoreCompileInputs.cache
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\02_PhuongPhapLapTrinhHuongDoiTuong\LTHDT\bin\Debug\net6.0\LTHDT.exe
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\02_PhuongPhapLapTrinhHuongDoiTuong\LTHDT\bin\Debug\net6.0\LTHDT.deps.json
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\02_PhuongPhapLapTrinhHuongDoiTuong\LTHDT\bin\Debug\net6.0\LTHDT.runtimeconfig.json
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\02_PhuongPhapLapTrinhHuongDoiTuong\LTHDT\bin\Debug\net6.0\LTHDT.dll
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\02_PhuongPhapLapTrinhHuongDoiTuong\LTHDT\bin\Debug\net6.0\LTHDT.pdb
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\02_PhuongPhapLapTrinhHuongDoiTuong\LTHDT\obj\Debug\net6.0\LTHDT.dll
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\02_PhuongPhapLapTrinhHuongDoiTuong\LTHDT\obj\Debug\net6.0\refint\LTHDT.dll
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\02_PhuongPhapLapTrinhHuongDoiTuong\LTHDT\obj\Debug\net6.0\LTHDT.pdb
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\02_PhuongPhapLapTrinhHuongDoiTuong\LTHDT\obj\Debug\net6.0\LTHDT.genruntimeconfig.cache
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\02_PhuongPhapLapTrinhHuongDoiTuong\LTHDT\obj\Debug\net6.0\ref\LTHDT.dll
+E:\MiNoA\NoA\Noa_CareerPath\KhoaHocTuNhien\5_HK1_2024_2025\02_PhuongPhapLapTrinhHuongDoiTuong\LTHDT\obj\Debug\net6.0\LTHDT.csproj.AssemblyReference.cache
